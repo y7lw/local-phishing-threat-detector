@@ -1,0 +1,99 @@
+{
+  "credential_harvesting": {
+    "label": "Credential Harvesting",
+    "weight": 12,
+    "phrases": [
+      "verify your account",
+      "confirm your password",
+      "update your payment information",
+      "unusual sign-in activity",
+      "click here to verify",
+      "re-enter your password",
+      "validate your identity",
+      "confirm your identity",
+      "suspicious login attempt",
+      "your account has been locked",
+      "unlock your account",
+      "reset your password immediately",
+      "confirm your billing details"
+    ]
+  },
+  "urgency": {
+    "label": "Urgency / Pressure",
+    "weight": 8,
+    "phrases": [
+      "act now",
+      "urgent action required",
+      "act immediately",
+      "within 24 hours",
+      "final notice",
+      "account will be suspended",
+      "account has been limited",
+      "expires today",
+      "immediate attention",
+      "time-sensitive",
+      "last warning",
+      "response required",
+      "before it's too late"
+    ]
+  },
+  "financial_lure": {
+    "label": "Financial Lure",
+    "weight": 10,
+    "phrases": [
+      "wire transfer",
+      "gift card",
+      "invoice attached",
+      "payment overdue",
+      "tax refund",
+      "you have won",
+      "claim your prize",
+      "bitcoin",
+      "cryptocurrency payment",
+      "processing fee",
+      "unclaimed funds",
+      "urgent payment request"
+    ]
+  },
+  "threat_language": {
+    "label": "Threats / Consequences",
+    "weight": 9,
+    "phrases": [
+      "legal action",
+      "account will be closed",
+      "permanently suspended",
+      "unauthorized access detected",
+      "your account has been compromised",
+      "failure to comply",
+      "law enforcement",
+      "criminal investigation"
+    ]
+  },
+  "authority_impersonation": {
+    "label": "Authority Impersonation",
+    "weight": 6,
+    "phrases": [
+      "it department",
+      "system administrator",
+      "help desk",
+      "security team",
+      "billing department",
+      "human resources department",
+      "executive assistant",
+      "ceo request"
+    ]
+  },
+  "generic_greeting": {
+    "label": "Generic / Impersonal Greeting",
+    "weight": 4,
+    "phrases": [
+      "dear customer",
+      "dear user",
+      "dear valued customer",
+      "dear account holder",
+      "valued member",
+      "dear sir/madam",
+      "dear email user"
+    ]
+  }
+}
